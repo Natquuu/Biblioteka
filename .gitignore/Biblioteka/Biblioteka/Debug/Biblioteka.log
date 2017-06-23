@@ -1,0 +1,18 @@
+﻿  CatalogWindow.cpp
+c:\users\admin\desktop\xxx\nauka\ii_semestr\jpwp\biblioteka\biblioteka\BorrowWindow.h(21): warning C4677: 'borrow_book': signature of non-private member contains assembly private type 'Book'
+  c:\users\admin\desktop\xxx\nauka\ii_semestr\jpwp\biblioteka\biblioteka\Book.h(3): note: see declaration of 'Book'
+  FindingWindow.cpp
+c:\users\admin\desktop\xxx\nauka\ii_semestr\jpwp\biblioteka\biblioteka\BorrowWindow.h(21): warning C4677: 'borrow_book': signature of non-private member contains assembly private type 'Book'
+  c:\users\admin\desktop\xxx\nauka\ii_semestr\jpwp\biblioteka\biblioteka\Book.h(3): note: see declaration of 'Book'
+c:\users\admin\desktop\xxx\nauka\ii_semestr\jpwp\biblioteka\biblioteka\FindingWindow.h(21): warning C4677: 'found': signature of non-private member contains assembly private type 'Book'
+  c:\users\admin\desktop\xxx\nauka\ii_semestr\jpwp\biblioteka\biblioteka\Book.h(3): note: see declaration of 'Book'
+  MainWindow.cpp
+c:\users\admin\desktop\xxx\nauka\ii_semestr\jpwp\biblioteka\biblioteka\BorrowWindow.h(21): warning C4677: 'borrow_book': signature of non-private member contains assembly private type 'Book'
+  c:\users\admin\desktop\xxx\nauka\ii_semestr\jpwp\biblioteka\biblioteka\Book.h(3): note: see declaration of 'Book'
+c:\users\admin\desktop\xxx\nauka\ii_semestr\jpwp\biblioteka\biblioteka\FindingWindow.h(21): warning C4677: 'found': signature of non-private member contains assembly private type 'Book'
+  c:\users\admin\desktop\xxx\nauka\ii_semestr\jpwp\biblioteka\biblioteka\Book.h(3): note: see declaration of 'Book'
+MainWindow.cpp(7): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  AdditionBook.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Biblioteka.vcxproj -> C:\Users\admin\Desktop\XXX\NAUKA\II_Semestr\JPWP\Biblioteka\Debug\Biblioteka.exe
+  Biblioteka.vcxproj -> C:\Users\admin\Desktop\XXX\NAUKA\II_Semestr\JPWP\Biblioteka\Debug\Biblioteka.pdb (Partial PDB)
